@@ -1,7 +1,7 @@
 ﻿# MotorSimulator
 
 # FAVOR DE LEER
-CLI:
+# CLI:
 Para usar esta version, necesita tener instalado Node.js para poder ejecutar el archivo
 Pasos para la ejecución:
     - Instalar Node.js
@@ -9,7 +9,7 @@ Pasos para la ejecución:
     - ejectutar el comando "node controlDeMotor.js"
     - enjoy
 
-DESKTOP
+# DESKTOP
 Para usar esta versión, necesita instalar Node.js y Electron en su computadora
 Pasos para la ejecución:
     - Instalar Node.js y Electron.js
@@ -20,7 +20,7 @@ Pasos para la ejecución:
     - Ejecutar el comando npm start
     - enjoy
 
-WEB
+# WEB:
 Para usar esta versión, solo necesita ejecutar el archivo index.js dentro de la carpeta web
 Pasos para la ejecución:
     - Navegar a la ubicación del archivo index.js
